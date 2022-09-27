@@ -1,0 +1,17 @@
+#自定义系统类的属性
+server:
+  #配置默认端口
+  port: 8888
+  #配置当前项目上下文
+  servlet:
+    context-path: /wy
+
+#配置属性并加载到User实体中
+user:
+  uid: 1998051110
+  uname: wuyu
+  password: wuyu1999
+  addrs:
+    - Beijing
+    - Sichuan
+    - Nanchang
