@@ -1,6 +1,5 @@
 package wy.springboot01.controller;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import wy.springboot01.domain.User;
 
